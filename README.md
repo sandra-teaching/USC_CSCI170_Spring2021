@@ -2,7 +2,7 @@
 
 For the Spring 2021 term, I taught Discrete Methods in Computer Science. Some powerpoints, annotated notes, and videos produced for that are provided below. These may be used as a resource or reference. The PPT templates for the slides and some of the applications of logic notes were from slides shared by Dr. Andy Gunawardena from Rutgers (andy.guna@rutgers.edu) and he has offered feedback on other slides and videos. If you share these slides or derivations from them, please credit this source. 
 
-Thanks, Sandra Batista
+Thanks, Sandra Batista (sandralee.at.usc@gmail.com)
 
 1. Sets and Functions [PPT](Slides/CSCI170_sp21_L2_Sets_functions.pptx), [Annotated](Annotated_slides/CSCI170_sp21_L2_Sets_functions_annotated.pdf), [Video](https://youtu.be/0edKTYqt0ck)
 2. Pigeonhole Principle [PPT](Slides/PHP.pptx), [Annotated](Annotated_slides/PHP_video_annotated.pdf), Videos: [p1](https://youtu.be/qPAN-CDGM64), [p2](https://youtu.be/lRvYpKoeUvQ), [Extended](https://youtu.be/Mkp0d8Xve6k) 
