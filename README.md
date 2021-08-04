@@ -4,8 +4,8 @@ For the Spring 2021 term, I taught Discrete Methods in Computer Science. Some po
 
 Thanks, Sandra Batista
 
-1. Sets and Functions [PPT](Slides/CSCI170_sp21_L2_Sets_functions.pptx), Annotated, [Video](https://youtu.be/0edKTYqt0ck)
-2. Pigeonhole Principle PPT, Annotated  Videos: [p1](https://youtu.be/qPAN-CDGM64), [p2](https://youtu.be/lRvYpKoeUvQ), [Extended](https://youtu.be/Mkp0d8Xve6k) 
+1. Sets and Functions [PPT](Slides/CSCI170_sp21_L2_Sets_functions.pptx), [Annotated](Annotated_slides/CSCI170_sp21_L2_Sets_functions_annotated.pdf), [Video](https://youtu.be/0edKTYqt0ck)
+2. Pigeonhole Principle [PPT](Slides/PHP.pptx), [Annotated](Annotated_slides/PHP_video_annotated.pdf), Videos: [p1](https://youtu.be/qPAN-CDGM64), [p2](https://youtu.be/lRvYpKoeUvQ), [Extended](https://youtu.be/Mkp0d8Xve6k) 
 3. Functions PPT Videos: [p1](https://youtu.be/KtZMVIlReC), [p2](https://youtu.be/JKslzT8KRGA), [p3](https://youtu.be/pllCIjewRko)
 4. Order Notation PPT Videos: [Big O](https://youtu.be/ULZuyv_NO2g), [Big Omega and Theta](https://youtu.be/l-X2EMvTLDY), [Hierarchies of Functions](https://youtu.be/691PNdtZ-fE), [Properties of Asymptotic Notation](https://youtu.be/dk6MZ_wa_pY)
 5. Propositional logic Videos : [part 1](https://www.dropbox.com/s/odxadq6u6tspeu8/Propositional_logic_1.MP4?dl=0), [part 2](https://www.dropbox.com/s/8wtktz7xtbafc6i/Propositional_logic_2.MP4?dl=0), [part 3](https://www.dropbox.com/s/24jnru1yq6dc6rb/Propositional_logic_3.mp4?dl=0), [part 4](https://www.dropbox.com/s/b5chwrbixz317pa/Propositional_logic_4.MP4?dl=0), [part 5](https://www.dropbox.com/s/szs12is3vgkrj0i/Propositional_logic_5.MP4?dl=0)
