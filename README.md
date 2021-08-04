@@ -2,6 +2,8 @@
 
 For the Spring 2021 term, I taught Discrete Methods in Computer Science. Some powerpoints, annotated notes, and videos produced for that are provided below. These may be used as a resource or reference. The PPT templates for the slides and some of the applications of logic notes were from slides shared by Dr. Andy Gunawardena from Rutgers and he has offered feedback on other slides and videos. If you share these slides or derivations from them, please credit this source. 
 
+Textbook referenced: Lewis, H. R., & Zax, R. (2019). *Essential discrete mathematics for computer science*. Princeton University Press.
+
 Thanks, Sandra Batista
 
 1. Sets and Functions [PPT](Slides/CSCI170_sp21_L2_Sets_functions.pptx), [Annotated](Annotated_slides/CSCI170_sp21_L2_Sets_functions_annotated.pdf), [Video](https://youtu.be/0edKTYqt0ck)
