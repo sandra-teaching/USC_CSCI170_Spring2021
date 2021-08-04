@@ -12,12 +12,12 @@ Thanks, Sandra Batista
 6. Applications of Logic PPT  Videos: [part 1](https://youtu.be/d4xi5ZPDmTc), [part 2](https://youtu.be/coBn48Jfrek), [part 3](https://youtu.be/NhqK23GvHvY)
 7. Predicate Logic Part 1 PPT Videos:  [p1](https://youtu.be/oIrzScPE_20), [p2](https://youtu.be/nHDrd-S4HU4), [p3](https://youtu.be/RxZl5Ve-6is), [p4](https://youtu.be/3KwEelaeHoo)
 8. Predicate Logic Part 2 PPT Videos: [p1](https://youtu.be/6o19Oo9CX30), [p2](https://youtu.be/ou1Jj8t2R0Q), [p3](https://youtu.be/xWohjOGvrZw)
-9. Proofs Videos: [Nonconstructive proof by cases using the pigeonhole principle](https://youtu.be/wPcnDPcI6kE), [Direct Proof of an Implication](https://youtu.be/AIz4I0jMhQA),[Proof by Contraposition](https://youtu.be/4Dxsyu0YaLs), [Proof by Contradiction](https://youtu.be/Qy08PAQvFn8), [Disproving a Statement](https://youtu.be/nfhEER17C1M)
+9. Proofs Videos: [Nonconstructive proof by cases using the pigeonhole principle](https://youtu.be/wPcnDPcI6kE), [Direct Proof of an Implication](https://youtu.be/AIz4I0jMhQA), [Proof by Contraposition](https://youtu.be/4Dxsyu0YaLs), [Proof by Contradiction](https://youtu.be/Qy08PAQvFn8), [Disproving a Statement](https://youtu.be/nfhEER17C1M)
 10. More Proofs PPT Annotated
 11. Induction PPT Annotated
 12. Well Ordering Principle, Recursion, and Loop Invariants PPT Annotated
 13. Time Complexity Analysis Videos: [Definition and Motivation](https://youtu.be/GFA8SwOEKgk), [Steps for Deriving Runtime](https://youtu.be/HPQH7W6P3I8), [Naive Matrix Multiplication](https://youtu.be/bxaWAje_g74), [Practice Problems](https://youtu.be/933LdNF4SVk), [Iterative Binary Search](https://youtu.be/6Q4wDZ3kCOQ)
-14. Sorting Videos: [Comparison sorting introduction](https://youtu.be/nPnWLFcEpgo), [Bubblesort](https://youtu.be/TTDehPcJoSg), [Selection sort](https://youtu.be/1UodhiYcTlU),[Insertion sort](https://youtu.be/FTFK_dr90Vc), [Mergesort](https://youtu.be/i2jTYQsu6dY), [Mergesort recurrence tree](https://youtu.be/p7jPzAU1keE), [Mergesort recurrence unrolling](https://youtu.be/h-h7j_gMaFY), [Quicksort](https://youtu.be/4ax9O_oihpE)
+14. Sorting Videos: [Comparison sorting introduction](https://youtu.be/nPnWLFcEpgo), [Bubblesort](https://youtu.be/TTDehPcJoSg), [Selection sort](https://youtu.be/1UodhiYcTlU),  [Insertion sort](https://youtu.be/FTFK_dr90Vc), [Mergesort](https://youtu.be/i2jTYQsu6dY), [Mergesort recurrence tree](https://youtu.be/p7jPzAU1keE), [Mergesort recurrence unrolling](https://youtu.be/h-h7j_gMaFY), [Quicksort](https://youtu.be/4ax9O_oihpE)
 15. Directed Graphs PPT Annotated
 16. Undirected Graphs PPT Annotated
 17. Minimum Spanning Trees PPT Annotated
