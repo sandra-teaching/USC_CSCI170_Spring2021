@@ -7,7 +7,7 @@ Thanks, Sandra Batista
 1. Sets and Functions PPT, Annotated, [Video](https://youtu.be/0edKTYqt0ck)
 2. Pigeonhole Principle PPT, Annotated  Videos: [p1](https://youtu.be/qPAN-CDGM64), [p2](https://youtu.be/lRvYpKoeUvQ), [Extended](https://youtu.be/Mkp0d8Xve6k) 
 3. Functions PPT Videos: [p1](https://youtu.be/KtZMVIlReC), [p2](https://youtu.be/JKslzT8KRGA), [p3](https://youtu.be/pllCIjewRko)
-4. Order Notation PPT Videos: [Big O](https://youtu.be/ULZuyv_NO2g), [Big Omega and Theta](https://youtu.be/l-X2EMvTLDY), [Hierarchies of Functions:](https://youtu.be/691PNdtZ-fE), [Properties of Asymptotic Notation:](https://youtu.be/dk6MZ_wa_pY)
+4. Order Notation PPT Videos: [Big O](https://youtu.be/ULZuyv_NO2g), [Big Omega and Theta](https://youtu.be/l-X2EMvTLDY), [Hierarchies of Functions](https://youtu.be/691PNdtZ-fE), [Properties of Asymptotic Notation](https://youtu.be/dk6MZ_wa_pY)
 5. Propositional logic Videos : [part 1](https://www.dropbox.com/s/odxadq6u6tspeu8/Propositional_logic_1.MP4?dl=0), [part 2](https://www.dropbox.com/s/8wtktz7xtbafc6i/Propositional_logic_2.MP4?dl=0), [part 3](https://www.dropbox.com/s/24jnru1yq6dc6rb/Propositional_logic_3.mp4?dl=0), [part 4](https://www.dropbox.com/s/b5chwrbixz317pa/Propositional_logic_4.MP4?dl=0), [part 5](https://www.dropbox.com/s/szs12is3vgkrj0i/Propositional_logic_5.MP4?dl=0)
 6. Applications of Logic PPT  Videos: [part 1](https://youtu.be/d4xi5ZPDmTc), [part 2](https://youtu.be/coBn48Jfrek), [part 3](https://youtu.be/NhqK23GvHvY)
 7. Predicate Logic Part 1 PPT Videos:  [p1](https://youtu.be/oIrzScPE_20), [p2](https://youtu.be/nHDrd-S4HU4), [p3](https://youtu.be/RxZl5Ve-6is), [p4](https://youtu.be/3KwEelaeHoo)
@@ -16,7 +16,7 @@ Thanks, Sandra Batista
 10. More Proofs PPT Annotated
 11. Induction PPT Annotated
 12. Well Ordering Principle, Recursion, and Loop Invariants PPT Annotated
-13. Time Complexity Analysis Videos: [Definition and Motivation:](https://youtu.be/GFA8SwOEKgk), [Steps for Deriving Runtime](https://youtu.be/HPQH7W6P3I8),[Naive Matrix Multiplication](https://youtu.be/bxaWAje_g74), [Practice Problems](https://youtu.be/933LdNF4SVk),[Iterative Binary Search](https://youtu.be/6Q4wDZ3kCOQ)
+13. Time Complexity Analysis Videos: [Definition and Motivation](https://youtu.be/GFA8SwOEKgk), [Steps for Deriving Runtime](https://youtu.be/HPQH7W6P3I8), [Naive Matrix Multiplication](https://youtu.be/bxaWAje_g74), [Practice Problems](https://youtu.be/933LdNF4SVk), [Iterative Binary Search](https://youtu.be/6Q4wDZ3kCOQ)
 14. Sorting Videos: [Comparison sorting introduction](https://youtu.be/nPnWLFcEpgo), [Bubblesort](https://youtu.be/TTDehPcJoSg), [Selection sort](https://youtu.be/1UodhiYcTlU),[Insertion sort](https://youtu.be/FTFK_dr90Vc), [Mergesort](https://youtu.be/i2jTYQsu6dY), [Mergesort recurrence tree](https://youtu.be/p7jPzAU1keE), [Mergesort recurrence unrolling](https://youtu.be/h-h7j_gMaFY), [Quicksort](https://youtu.be/4ax9O_oihpE)
 15. Directed Graphs PPT Annotated
 16. Undirected Graphs PPT Annotated
