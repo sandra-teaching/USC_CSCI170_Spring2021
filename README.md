@@ -18,8 +18,8 @@ Thanks, Sandra Batista
 12. Well Ordering Principle, Recursion, and Loop Invariants [PPT](https://github.com/sandra-teaching/USC_CSCI170_Spring2021/blob/main/Slides/CSCI170_sp21_recursion_wop.pptx),  [Annotated](https://github.com/sandra-teaching/USC_CSCI170_Spring2021/blob/main/Annotated_slides/CSCI170_sp21_recursion_wop_annotated.pdf)
 13. Time Complexity Analysis Videos: [Definition and Motivation](https://youtu.be/GFA8SwOEKgk), [Steps for Deriving Runtime](https://youtu.be/HPQH7W6P3I8), [Naive Matrix Multiplication](https://youtu.be/bxaWAje_g74), [Practice Problems](https://youtu.be/933LdNF4SVk), [Iterative Binary Search](https://youtu.be/6Q4wDZ3kCOQ)
 14. Sorting Videos: [Comparison sorting introduction](https://youtu.be/nPnWLFcEpgo), [Bubblesort](https://youtu.be/TTDehPcJoSg), [Selection sort](https://youtu.be/1UodhiYcTlU),  [Insertion sort](https://youtu.be/FTFK_dr90Vc), [Mergesort](https://youtu.be/i2jTYQsu6dY), [Mergesort recurrence tree](https://youtu.be/p7jPzAU1keE), [Mergesort recurrence unrolling](https://youtu.be/h-h7j_gMaFY), [Quicksort](https://youtu.be/4ax9O_oihpE)
-15. Directed Graphs PPT Annotated
-16. Undirected Graphs PPT Annotated
-17. Minimum Spanning Trees PPT Annotated
-18. Edge and Vertex Connectivity PPT Annotated
-19. Graph Coloring and Algorithms PPT Annotated
+15. Directed Graphs [PPT](https://github.com/sandra-teaching/USC_CSCI170_Spring2021/blob/main/Slides/CSCI170_sp21_Graph_Theory.pptx), [Annotated](https://github.com/sandra-teaching/USC_CSCI170_Spring2021/blob/main/Annotated_slides/CSCI170_sp21_Graph_Theory_annotated.pdf)
+16. Undirected Graphs [PPT](https://github.com/sandra-teaching/USC_CSCI170_Spring2021/blob/main/Slides/CSCI170_sp21_Undirected_Graphs.pptx), [Annotated](https://github.com/sandra-teaching/USC_CSCI170_Spring2021/blob/main/Annotated_slides/CSCI170_sp21_Undirected_Graphs.pdf)
+17. Minimum Spanning Trees [PPT](https://github.com/sandra-teaching/USC_CSCI170_Spring2021/blob/main/Slides/CSCI170_sp21_MSTs.pptx), [Annotated](https://github.com/sandra-teaching/USC_CSCI170_Spring2021/blob/main/Annotated_slides/CSCI170_sp21_MSTs_annotated.pdf)
+18. Edge and Vertex Connectivity [PPT](https://github.com/sandra-teaching/USC_CSCI170_Spring2021/blob/main/Slides/CSCI170_sp21_connectivity.pptx)
+19. Graph Coloring and Algorithms [PPT](https://github.com/sandra-teaching/USC_CSCI170_Spring2021/blob/main/Slides/CSCI170_sp21_coloring_algorithms.pptx), [Annotated](https://github.com/sandra-teaching/USC_CSCI170_Spring2021/blob/main/Annotated_slides/CSCI170_sp21_coloring_algorithms_annotated.pdf)
