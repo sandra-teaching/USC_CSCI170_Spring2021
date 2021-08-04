@@ -5,7 +5,7 @@ For the Spring 2021 term, I taught Discrete Methods in Computer Science. Some po
 Thanks, Sandra Batista
 
 1. Sets and Functions PPT, Annotated, [Video](https://youtu.be/0edKTYqt0ck)
-2. Pigeonhole Principle PPT Videos: [p1](https://youtu.be/qPAN-CDGM64) [p2](https://youtu.be/lRvYpKoeUvQ)
+2. Pigeonhole Principle PPT, Annotated  Videos: [p1](https://youtu.be/qPAN-CDGM64)   [p2](https://youtu.be/lRvYpKoeUvQ)  
 [Extended](https://youtu.be/Mkp0d8Xve6k) Annotated
 3. Functions PPT Videos: [p1](https://youtu.be/KtZMVIlReC) [p2](https://youtu.be/JKslzT8KRGA) [p3](https://youtu.be/pllCIjewRko)
 4. Order Notation PPT Videos: [Big O](https://youtu.be/ULZuyv_NO2g)[Big Omega and Theta](https://youtu.be/l-X2EMvTLDY)
